@@ -4,18 +4,20 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
+	base: 'docs',
 	integrations: [
 		starlight({
-			title: 'Docs with Tailwind',
+			title: 'Kotoyanen Documentations',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/Kotoyanen/docs',
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Basic',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'New? Read me!', link: '/basic/new-comer/' },
+						{ label: 'System Architecture', link: '/basic/system-architecture/' },
+						{ label: 'Database Schema', link: '/basic/database-schema/' },
 					],
 				},
 				{
