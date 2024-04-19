@@ -21,8 +21,8 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Supabase',
+					autogenerate: { directory: 'supabase' },
 				},
 			],
 			customCss: ['./src/tailwind.css'],

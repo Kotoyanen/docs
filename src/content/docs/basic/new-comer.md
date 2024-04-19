@@ -26,3 +26,4 @@ This website serves as a technical documentation for anyone looking to contribut
 ## Further Reading
 
 - See our [System Architecture](/docs/basic/system-architecture) setup.
+- See how to [setup Supabase](/docs/supabase/setup).
