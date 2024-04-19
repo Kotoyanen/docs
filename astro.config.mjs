@@ -16,6 +16,7 @@ export default defineConfig({
 					label: 'Basic',
 					items: [
 						{ label: 'New? Read me!', link: '/basic/new-comer/' },
+						{ label: 'Word Definition', link: '/basic/word-definitions/'},
 						{ label: 'System Architecture', link: '/basic/system-architecture/' },
 						{ label: 'Database Schema', link: '/basic/database-schema/' },
 					],
