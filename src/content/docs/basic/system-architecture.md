@@ -9,3 +9,4 @@ description: System Architecture for Kotoyanen
 The core of the system will be using Supabase as the BaaS.
 
 The website will be developed in Svelte.
+

@@ -13,7 +13,6 @@ The platform features the following:
 - Users can create their own quizzes, where each quiz is just a collection of flashcards.
     - Any publicly available flashcard can be added into the quiz, even if it's not your own.
 - Users can comment and vote on flashcard/quizzes.
-- Users can add groups of people to collaborate on creating flashcard and quizzes.
 
 ## About this
 
@@ -25,4 +24,6 @@ This website serves as a technical documentation for anyone looking to contribut
 
 ## Further Reading
 
+- See the [word definition](/docs/basic/word-definitions) for the commonly used words in the project.
 - See our [System Architecture](/docs/basic/system-architecture) setup.
+- See how to [setup Supabase](/docs/supabase/setup).
